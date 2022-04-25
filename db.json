@@ -1,11 +1,11 @@
 {
-  "posts": [
+  "tokens": [
     {
-      "id": 1,
-      "title": "hello"
+      "id": 0,
+      "description": "Genesis Number",
+      "external_url": "https://www.google.com/search?q=genesis+number",
+      "image": "https://twemoji.maxcdn.com/svg/1f366.svg",
+      "name": "My NFT 0"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
