@@ -13,6 +13,13 @@
       "external_url": "https://www.google.com/search?q=AON",
       "image": "https://twemoji.maxcdn.com/svg/1f366.svg",
       "name": "First AON Test Collection NFT"
+    },
+    {
+      "id": 2,
+      "description": "AON Genesis",
+      "external_url": "https://www.google.com/search?q=AON",
+      "image": "https://twemoji.maxcdn.com/svg/1f366.svg",
+      "name": "Second AON Test Collection NFT"
     }
   ]
 }
