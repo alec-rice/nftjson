@@ -6,6 +6,13 @@
       "external_url": "https://www.google.com/search?q=genesis+number",
       "image": "https://twemoji.maxcdn.com/svg/1f366.svg",
       "name": "My NFT 0"
+    },
+    {
+      "id": 1,
+      "description": "AON Genesis",
+      "external_url": "https://www.google.com/search?q=AON",
+      "image": "https://twemoji.maxcdn.com/svg/1f366.svg",
+      "name": "First AON Test Collection NFT"
     }
   ]
 }
